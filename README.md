@@ -9,6 +9,6 @@ or drop me an e-mail at muz.trizen@gmail.com
 - Deep Learning (DL) algorithm sample codes. (TBA)
 - Natural Language Processing (NLP) algorithm sample codes. (TBA)
 - Applied Intelligence (AI) algorithm sample codes. (Ongoing)
-
+- Internet of Things (IoT) sample codes. (Ongoing)
 
 
