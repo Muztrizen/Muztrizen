@@ -4,12 +4,23 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ahmad-muz
 or drop me an e-mail at muz.trizen@gmail.com
 
 ## What is in my Github
-- Data Science workflow sample codes (Ongoing).
--- Big data collection
-- Machine Learning (ML) algorithm sample codes. (Ongoing)
-- Deep Learning (DL) algorithm sample codes. (TBA)
-- Natural Language Processing (NLP) algorithm sample codes. (TBA)
-- Applied Intelligence (AI) algorithm sample codes. (Ongoing)
-- Internet of Things (IoT) sample codes. (Ongoing)
+* Data Science workflow sample codes (Ongoing).
+  * Big data collection
+  * Business Intelligence (BI)
+  
+* Machine Learning (ML) algorithm sample codes. (Ongoing)
+  * Supervised ML
+  * Unsupervised ML
+
+* Deep Learning (DL) algorithm sample codes. (TBA)
+
+* Natural Language Processing (NLP) algorithm sample codes. (TBA)
+
+* Applied Intelligence (AI) algorithm sample codes. (Ongoing)
+  * Recommendation engine
+
+* Internet of Things (IoT) sample codes. (Ongoing)
+  * Things 
+  * IoT Platform
 
 
