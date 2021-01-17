@@ -5,6 +5,7 @@ or drop me an e-mail at muz.trizen@gmail.com
 
 ## What is in my Github
 - Data Science workflow sample codes (Ongoing).
+-- Big data collection
 - Machine Learning (ML) algorithm sample codes. (Ongoing)
 - Deep Learning (DL) algorithm sample codes. (TBA)
 - Natural Language Processing (NLP) algorithm sample codes. (TBA)
