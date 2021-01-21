@@ -5,6 +5,6 @@ or drop me an e-mail at muz.trizen@gmail.com
 
 ## What's in my repo
 
-* Machine Learning (ML) algorithm sample codes. (Ongoing)
+* Machine Learning (ML)
   * Supervised ML
   * Unsupervised ML
